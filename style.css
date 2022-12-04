@@ -1,0 +1,24 @@
+div {
+    background: greenyellow;
+}
+
+.tittle {
+    color: black;
+}
+
+#tittle2 {
+    color: grey;
+}
+
+#footer {
+    background-color: white;
+}
+
+a[href="https://platzi.com/home"] {
+    color: red;
+}
+
+* {
+    background-color: papayawhip;
+}
+
