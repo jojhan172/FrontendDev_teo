@@ -22,3 +22,15 @@ a[href="https://platzi.com/home"] {
     background-color: papayawhip;
 }
 
+.texto1 > p {
+    color: blueviolet;
+}
+
+h1 + h2{
+    background: blueviolet;
+}
+
+h1 ~ * {
+    color: brown;
+}
+
