@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+}
+
+div {
+    background: salmon;
+    width: 200px;
+    height: 200px;
+}
+
+a {
+    background: skyblue;
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+}
+
+button {
+    background: blue;
+    width: 200px;
+    height: 200px;
+}
